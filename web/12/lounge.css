@@ -5,9 +5,17 @@ h1, h2 {
 
 
 h1 {
-  border-bottom：1px solid black;
+  border-bottom: 1px solid black;
 }
 
 p {
+  font-style: italic;
   color: maroon;
+}
+body{
+	color: royalblue;
+	color: rgb(252, 47, 183);
+	color: #a643c4cc;
+	color: rgba(39,177,182,0.8);
+	color: #3527b6cc;
 }
