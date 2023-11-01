@@ -1,19 +1,23 @@
-p{
+* {
   font-family: Verdana,Geneva,Arial;
   font-size: 12px;
+  padding: 0px;
+  margin: 0px;
+  line-height: 1;
 }
-h1,h2{
-      color:#cc6600;
-      border-bottom:thin dotted #88888888;
-      text-decoration:none;
-      }
-h1{
-  font-size:220%;
+h1,h2 {
+  color:#cc6600;
+  border-bottom: thin dotted #88888888;
+  text-decoration: none;
+}
+h1 {
+  font-size: 220%;
   }
 h2{
-  font-size:130%;
-  font-weight:normal;
-  }
+  font-size: 130%;
+  font-weight: normal;
+}
 blockquote{
-          font-style: initial;
-          }  
+  font-style: initial;
+}  
+
